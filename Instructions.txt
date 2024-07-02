@@ -1,0 +1,6 @@
+create database
+
+import all the tables into sql workbench 
+
+create tables in by your own in which the data type in csv files mismatch the data
+
